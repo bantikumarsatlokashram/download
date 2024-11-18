@@ -1,4 +1,3 @@
-```markdown
 # 📥 Download Manager Scripts 📦
 
 This 📁 repository contains various implementations of a file download manager in different programming languages 🖥️, allowing users 👥 to serve and download files 📄 from a specified directory 📂 through a simple web interface 🌐. Each implementation offers a slightly different approach 🛠️, using the native strengths 💪 of each language to manage file directories and downloads effectively.
